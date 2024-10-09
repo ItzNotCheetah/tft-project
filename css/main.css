@@ -1,0 +1,64 @@
+/* Goal */
+
+.goal {
+    margin-bottom: 10%;
+}
+
+.goalHeader {
+    margin-top: 10%;
+    margin-bottom: 5px;
+
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
+
+.goalBody {
+    margin-left: 10%;
+    margin-right: 10%;
+
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
+
+strong {
+    color: red;
+}
+
+/* Stats */
+
+.stats {
+    margin-bottom: 10%;
+
+    text-align: center;
+}
+
+.card {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.statsNum {
+    font-family: 'Poppins', sans-serif;
+}
+
+/* Draws */
+.draws {
+    padding: 10%;
+    margin-bottom: 0;
+}
+
+.drawsHeader {
+    margin-top: 10%;
+    margin-bottom: 5px;
+
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
+
+.drawsBody {
+
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}

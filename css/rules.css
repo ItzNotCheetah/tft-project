@@ -1,0 +1,22 @@
+.sectionHeader {
+  margin-top: 5%;
+  margin-bottom: 20px;
+
+  font-family: 'Poppins', sans-serif;
+  text-align: center;
+}
+
+.sectionContent {
+  /* center content */
+  margin-left: 20%; 
+  margin-right: 20%;
+  text-align: center;
+
+  /* text */
+  font-size: 2.2rem;
+}
+
+.lastItem {
+  padding-bottom: 20px;
+  margin-bottom: 0px;
+}

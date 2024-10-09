@@ -1,0 +1,11 @@
+#images {
+  padding-bottom: 20px;
+}
+
+.row {
+  /* need to center */
+  display: flex;
+  justify-content: center;
+
+  margin-bottom: 30px;
+}
